@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🦾 **I’m currently learning : Golang,MEVN**
-<!-- - 🧑 **Fun fact : I`m human** -->
+- 🧑 **Fun fact : I`m human**
 
 ```bash
 thama@NothingToMigratee Windows64 ~/Documents (developer)
@@ -33,6 +33,6 @@ Writing objects: 100% (3/3), 2250 bytes | 2250.00 KiB/s, done.
 thama@NothingToMigratee Windows64 ~/Documents (developer)
 $ clear
 ```
-<!-- ### Tech Stack 
-#### *coming soon*  -->
+### Tech Stack 
+*coming soon*
 
