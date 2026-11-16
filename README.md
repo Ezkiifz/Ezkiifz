@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - 💪 **I'm currently learning :**
   - 💻 **Programming :** Golang, Rust
-  - ☁️ **Cloud :** AWS, Docker, Kubernetes
-  - 🔄 **DevOps :** CI/CD, Terraform, Linux
+  - ☁️ **Cloud :** AWS
+  - 🔄 **DevOps :** Docker, Kubernetes, CI/CD, Terraform, Linux
   - 🔐 **Cyber Security :** Network Security, Ethical Hacking
   - 🤖 **AI :** Python for Data Science
 - 👶 **Fun fact : I'm human**
