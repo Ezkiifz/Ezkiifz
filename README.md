@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🦾 **I’m currently learning : Golang,MEVN**
-- 🧑 **Fun fact : I`m human**
+- 💪 **I'm currently learning :**
+  - 💻 **Programming :** Golang, Rust
+  - ☁️ **Cloud :** AWS, Docker, Kubernetes
+  - 🔄 **DevOps :** CI/CD, Terraform, Linux
+  - 🔐 **Cyber Security :** Network Security, Ethical Hacking
+  - 🤖 **AI :** Python for Data Science
+- 👶 **Fun fact : I'm human**
 
 ```bash
 thama@NothingToMigratee Windows64 ~/Documents (developer)
