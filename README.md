@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💪 **I'm currently learning :**
+- 💪 **I'm currently leveling up :**
   - 💻 **Programming :** Golang, Rust
   - ☁️ **Cloud :** AWS
   - 🔄 **DevOps :** Docker, Kubernetes, CI/CD, Terraform, Linux
